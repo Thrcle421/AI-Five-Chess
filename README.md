@@ -1,4 +1,4 @@
-"This is a project I completed in my freshman year."
+**This is a project I completed in my freshman year**
 
 Project Title: Gomoku AI with Minimax and Pruning Algorithms
 
