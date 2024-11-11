@@ -1,3 +1,18 @@
+"This is a project I completed in my freshman year."
+
+Project Title: Gomoku AI with Minimax and Pruning Algorithms
+
+Objective: The goal of this project was to develop a Gomoku AI using C and C++ to apply minimax search and pruning algorithms. The AI was designed to evaluate board positions via a game tree traversal and select the optimal move.
+
+Key Components:
+
+Algorithm Implementation: Developed minimax and alpha-beta pruning algorithms, along with a scoring function to evaluate board states.
+Game Evaluation: Used a board traversal method to score each possible move based on the positions of AI and player pieces, applying heuristics to improve decision-making.
+Optimization: Introduced heuristics, single-layer kill moves, and positional pruning to enhance speed in larger board states. Alpha-beta pruning improved traversal efficiency but required additional layers of pruning in complex board scenarios.
+Interface: Built a user-friendly game interface using EasyX for board visualization and mouse interaction.
+Challenges and Improvements: The primary challenges included managing large search trees and ensuring efficient move selection. Pruning reduced some computational load but further optimizations, such as incorporating multi-layer kill moves and heuristic search across all layers, are proposed to enhance performance in complex game states.
+
+
 一、实验室名称：
 电子科技大学清水河校区基础实验大楼502
 二、实验项目名称：
